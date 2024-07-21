@@ -1,5 +1,5 @@
 // import { useCallback, useState } from 'react'
-import { FaSearch } from "react-icons/fa";
+
 // import './App.css'
 import { useEffect, useState } from 'react';
 import MovieCard from "./MovieCard";
